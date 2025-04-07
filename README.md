@@ -30,7 +30,8 @@ Additionally, **Per Capita Emissions** is provided as a target variable for comp
 
 An interactive Power BI dashboard has been developed to visualize and explore the CO₂ emissions data. The dashboard features dynamic charts and slicers, allowing users to filter data by year, country, and energy source for a comprehensive view of global trends.
 
-![Dashboard Preview](Dashboard_image.png)
+![Dashboard Preview](https://raw.githubusercontent.com/aditya00025/Emission-Tracking/main/Dashboard%20image.png)
+
 
 ## Insights & Findings
 
